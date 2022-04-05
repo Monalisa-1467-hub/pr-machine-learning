@@ -1,2 +1,1 @@
-# pr-machine-learning
-HR Employee Attrition Data Analysis
+# HR Employee Attrition Data Analysis
